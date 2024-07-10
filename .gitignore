@@ -1,0 +1,5 @@
+plugins/
+themes/
+core-plugins-migration.json
+workspace.json
+types.json

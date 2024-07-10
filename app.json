@@ -1,0 +1,16 @@
+{
+  "showLineNumber": true,
+  "tabSize": 2,
+  "vimMode": true,
+  "spellcheckLanguages": null,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "showInlineTitle": false,
+  "livePreview": true,
+  "foldHeading": true,
+  "rightToLeft": false,
+  "showUnsupportedFiles": false,
+  "promptDelete": false,
+  "autoConvertHtml": false
+}

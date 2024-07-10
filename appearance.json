@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "system",
+  "cssTheme": "Catppuccin",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono,JetBrainsMono Nerd Font",
+  "textFontFamily": "FiraCode Nerd Font,RobotoMono Nerd Font,Roboto,SF Pro Display",
+  "interfaceFontFamily": "SF Pro Text,FiraCode Nerd Font,RobotoMono Nerd Font,Roboto",
+  "nativeMenus": false,
+  "baseFontSizeAction": true,
+  "showViewHeader": true
+}
